@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MarkDown on Terence&#39;s Blog</title>
+    <link>https://PgooLainn.github.io/tags/markdown/</link>
+    <description>Recent content in MarkDown on Terence&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 10 Nov 2020 20:00:47 +0800</lastBuildDate><atom:link href="https://PgooLainn.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MD的大略介紹</title>
+      <link>https://PgooLainn.github.io/blog/test/</link>
+      <pubDate>Tue, 10 Nov 2020 20:00:47 +0800</pubDate>
+      
+      <guid>https://PgooLainn.github.io/blog/test/</guid>
+      <description>內文:hello world
+我說這個
+一級標題 二級標題 MD支援到六級標題 粗體字範例
+斜體字範例，無法粗斜體一起使用
+ 第一項有序序列  內縮序列，前面四個空白鍵  第二層內縮     第二項 繼續打1.</description>
+    </item>
+    
+  </channel>
+</rss>
