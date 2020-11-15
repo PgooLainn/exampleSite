@@ -6,7 +6,7 @@ theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
 disqusShortname = "Pgoolainn"
-ignoreErrors = ["error-remote-getjson"]
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
