@@ -67,7 +67,7 @@ home = "Home"
 description = "Terence 的心得分享"
 author = "Terence"
 # Google Analitics liva hugu 此主題有錯字
-googleAnalitycsID = "UA-183042775-1"
+googleAnaliticsID = "UA-183042775-1"
 
 # Contact Information
 mobile = "0912345678"
